@@ -1,18 +1,17 @@
 body{
-    width: 500px;
+    width: 700px;
 }
 .ifsection {
     background-color: black;
-    width: 600px;
-    height: 384px;
-    padding: 10 10 -10 0;
+    width: 700px;
+    height: 510px;
     padding-top: 30px;
     padding-left: 5px;
     padding-bottom: -10px;
 }
 
 .ifsection img {
-    width: 300px;
+    width: 400px;
     float: left;
 }
 
@@ -29,7 +28,9 @@ body{
     color: white;
     float: right;
     padding: 10px;
-    width: 170px;
+    margin-left: 150px;
+    width: 190px;
+    height: 50px;
 }
 
 .loatbox img {
@@ -38,24 +39,32 @@ body{
 }
 
 .loatbox p {
-    font-size: 35px;
+    font-size: 45px;
     margin: 1px;
     padding-left: 60px;
 }
 
 h1 {
-    color: #FF5F08;
+    color: #FF421C;
 }
 
 h2{
     margin: 20px;
+    margin-left: 150px;
     padding: 15px;
+    font-size:  ;
+    color: #E0C5AF;
 }
 hr{
     margin: -29px;
-    color: #E88434;
+    color: #DED5C5;
+    width: 700px;
 }
 
 .bodytext {
-    
+    width: 350px;
+}
+
+.line2 {
+    padding-left: 
 }
