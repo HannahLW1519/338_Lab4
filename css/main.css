@@ -1,0 +1,61 @@
+body{
+    width: 500px;
+}
+.ifsection {
+    background-color: black;
+    width: 600px;
+    height: 384px;
+    padding: 10 10 -10 0;
+    padding-top: 30px;
+    padding-left: 5px;
+    padding-bottom: -10px;
+}
+
+.ifsection img {
+    width: 300px;
+    float: left;
+}
+
+.ifsection p {
+    color: white;
+    position: relative;
+    top: 155px;
+    
+}
+
+.loatbox{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    float: right;
+    padding: 10px;
+    width: 170px;
+}
+
+.loatbox img {
+    width: 50px;
+    float: left;
+}
+
+.loatbox p {
+    font-size: 35px;
+    margin: 1px;
+    padding-left: 60px;
+}
+
+h1 {
+    color: #FF5F08;
+}
+
+h2{
+    margin: 20px;
+    padding: 15px;
+}
+hr{
+    margin: -29px;
+    color: #E88434;
+}
+
+.bodytext {
+    
+}
